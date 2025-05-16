@@ -16,5 +16,7 @@ There, I found some designs that I want to take inspiration from
 ![image](https://github.com/user-attachments/assets/326f1f37-cceb-4489-a27c-f62837e401f0) from u/pedrorq
 ![image](https://github.com/user-attachments/assets/a213d5ea-a3eb-4c0d-a6a7-ed6bb87f62e3) the ZSA Voyager
 With a good idea of what I wanted to make in mind, I have started to plan out the layout for my keyboard.
+![image](https://github.com/user-attachments/assets/a094d4a2-8f03-4267-ad48-c0c4e62964f7)
+
 
 Time Spent: 2.5 hours
