@@ -1,6 +1,4 @@
-# The-Prince-Keeb
-
-May 15, 2025
+## May 15, 2025
 Today, I mostly focused on planning. I want this keyboard to:
 - Be column staggered
 - Have more convenient key placements
@@ -24,7 +22,7 @@ With a good idea of what I wanted to make in mind, I have started to plan out th
 
 Time Spent: 2.5 hours
 
-May 16, 2025
+## May 16, 2025
 Today, I started designing the left half of my keyboard. 
 However, before that, I finished tweaking my keybaord design on [Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/)
 This is what I came up with. I've decided to increase the amount of thumb keys to 6, so this will be a
