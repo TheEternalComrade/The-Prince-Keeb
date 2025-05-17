@@ -38,4 +38,21 @@ This is what I came up with. I've decided to increase the amount of thumb keys t
  a standard design for low profile switches. I had to go hunting for footprints, 3d models, hotswap sockets, etc for the Gateron
  KS-33 switches I chose to use.
  
- One I had my layout finalized, I 
+ One I had my layout finalized, it was time to star schematic-y-ing. That was fortunately pretty straightforward.
+
+ It was when I loaded up the pcb that I came across a problem. How was I going to properly postition all the keys? Now this
+ isn't my first rodeo with keyboard-related designs, but this is the first one I've had one with a column stagger and angled switches.
+ To make accomplish this task, I headed over to [ai03](https://kbplate.ai03.com/) where I generated plate for my design. At first, the edges of the
+ cutout were rounded by default, but I removed this for convenience.
+ ![Screenshot 2025-05-16 231643](https://github.com/user-attachments/assets/d25792b7-2691-449a-b6a2-9e41b1f3f73e)
+
+ I also edited the Gateron KS-33 footprints I had found to so that they would have a centered 14x14 box in them, the same dimensions as the
+ switch plate. This allowed my to postion the switches relatively to the plate.
+ 
+
+ Next, I need to place the diodes and add edge cuts!
+
+![Screenshot 2025-05-16 231643](https://github.com/user-attachments/assets/1d74f49f-b79c-4b1c-b7d8-f82b11648bd5)
+
+
+ Time Spent: 3 hours
