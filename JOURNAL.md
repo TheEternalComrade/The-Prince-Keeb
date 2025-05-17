@@ -43,7 +43,7 @@ This is what I came up with. I've decided to increase the amount of thumb keys t
  It was when I loaded up the pcb that I came across a problem. How was I going to properly postition all the keys? Now this
  isn't my first rodeo with keyboard-related designs, but this is the first one I've had one with a column stagger and angled switches.
  To make accomplish this task, I headed over to [ai03](https://kbplate.ai03.com/) where I generated plate for my design. At first, the edges of the
- cutout were rounded by default, but I removed this for convenience.
+ cutout were rounded by default, but I removed this for convenience. I then downloaded it as a dxf and imported it into Kicad as a graphic.
  ![Screenshot 2025-05-16 231643](https://github.com/user-attachments/assets/d25792b7-2691-449a-b6a2-9e41b1f3f73e)
 
  I also edited the Gateron KS-33 footprints I had found to so that they would have a centered 14x14 box in them, the same dimensions as the
