@@ -20,3 +20,16 @@ With a good idea of what I wanted to make in mind, I have started to plan out th
 
 
 Time Spent: 2.5 hours
+
+May 16, 2025
+Today, I started designing the left half of my keyboard. 
+However, before that, I finished tweaking my keybaord design on [Keyboard-Layout-Editor](https://www.keyboard-layout-editor.com/#/)
+This is what I came up with. I've decided to increase the amount of thumb keys to 6, so this will be a
+54 key keyboard.
+![Screenshot 2025-05-16 230038](https://github.com/user-attachments/assets/34c878c7-ebd3-460d-8241-bc349f7ec945)
+ I also decided that I want to use low profile switches. I've tried to use normal profile keyboards in the past, but
+ the height makes my wrists hurt. 
+ The thing is, unlike regular profile switches, there isn't really
+ a standard design for low profile switches. I had to go hunting for footprints, 3d models, hotswap sockets, etc for the Gateron
+ KS-33 switches I chose to use.
+ One I had my layout finalized, I 
