@@ -58,12 +58,31 @@ This is what I came up with. I've decided to increase the amount of thumb keys t
  ## May 17, 2025
  Today I finished my PCBs, and started making the cases. It was sooooo tedious trying to place everything where it needed to be, finding footprints,
  3d models, editing footprints, etc. Closer to the end of the process, I decided it would be best to change the keyswitch footprint from [this
- one by siderkb on Github]
-(https://camo.githubusercontent.com/41e7a4040d28bec680a1cc81e6fa1cbf86637d8cd1792a479a8ed29b25a4d441/68747470733a2f2f692e696d6775722e636f6d2f72525549466b302e706e67)
+ one by siderkb on Github](https://camo.githubusercontent.com/41e7a4040d28bec680a1cc81e6fa1cbf86637d8cd1792a479a8ed29b25a4d441/68747470733a2f2f692e696d6775722e636f6d2f72525549466b302e706e67)
 
 [To this one](https://camo.githubusercontent.com/dcc6496cad867bbc903a92fb7431d5b972b87b0c7c5b4b7377a76f2af5bd1d9c/68747470733a2f2f692e696d6775722e636f6d2f3746437a6a72612e706e67)
  
- I was not tryna do allat, so after completing the left half of my keyboard,
- I simply made copy of it, renamed it, and flipped the copied pcb in kicad. I then proceeded to edit so
+ I was not tryna do allat, so after completing the left half of my keyboard, I simply made copy of it, renamed it, and flipped the copied pcb in kicad.
+ I then proceeded to flip certain elements, reroute, and update the schematic a bit for a proper design.
+ Here's what it looks like looks like:
+
+ A bit of a tangent, but you may have noticed a blocky grey thing near the thumb keys on my pcb. This is what will allow the two 
+ keyboard halves to communicate with each other! Normally, split keyboards use a TRRS jack to facilitate this communication. 
+[ They look like this!](https://keeb.io/cdn/shop/products/IMG_9005.JPG?v=1568991566&width=2000)
+The thing is, TRRS is not hotswappable. This means that if you accidentally unplug the connector cable while the keyboards are connected to power,
+very bad things will happen. I'm kinda clumsy, so that option was out. 
+
+Less commonly, USB-C is also used, but I decided to avoid that because it's hard to solder and I didn't want to use it non-standardly.
+
+I decided to used a RJ11/6P4C connector because it is hotswappable and  pretty easy to solder. It is a bit chonky, but that just
+means it has personality :)
+
+With my pcbs done, it was time to start on the cases. To make my job a lot easier, I exported the edgecuts layers and a couple other as SVG's. I then
+converted the SVG file to DXF, and imported it into a new Fusion360 project. This allows me to design my case very accurately to my pcb
+
+At the moment, I am currently struggling to offset my case outline properly, because apparently the universe finds spiting me funny TT. As you can see,
+a few segments of the outline are not included for some reason
+![Screenshot 2025-05-17 235443](https://github.com/user-attachments/assets/f016f685-ecbc-49d6-8a56-b2bcc77c3de0)
+Maybe it'll work tomorrow...
 
 Time Spent: 5 hours TT
