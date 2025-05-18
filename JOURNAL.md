@@ -58,8 +58,10 @@ This is what I came up with. I've decided to increase the amount of thumb keys t
  ## May 17, 2025
  Today I finished my PCBs, and started making the cases. It was sooooo tedious trying to place everything where it needed to be, finding footprints,
  3d models, editing footprints, etc. Closer to the end of the process, I decided it would be best to change the keyswitch footprint from [this
- one by siderkb on Github:
-](https://camo.githubusercontent.com/41e7a4040d28bec680a1cc81e6fa1cbf86637d8cd1792a479a8ed29b25a4d441/68747470733a2f2f692e696d6775722e636f6d2f72525549466b302e706e67)
+ one by siderkb on Github]
+(https://camo.githubusercontent.com/41e7a4040d28bec680a1cc81e6fa1cbf86637d8cd1792a479a8ed29b25a4d441/68747470733a2f2f692e696d6775722e636f6d2f72525549466b302e706e67)
+
+[To this one](https://camo.githubusercontent.com/dcc6496cad867bbc903a92fb7431d5b972b87b0c7c5b4b7377a76f2af5bd1d9c/68747470733a2f2f692e696d6775722e636f6d2f3746437a6a72612e706e67)
  
  I was not tryna do allat, so after completing the left half of my keyboard,
  I simply made copy of it, renamed it, and flipped the copied pcb in kicad. I then proceeded to edit so
