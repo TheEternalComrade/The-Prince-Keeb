@@ -1,2 +1,2 @@
 # The Prince Keeb
-A 52 key split keyboard.
+A 54 key split keyboard.
