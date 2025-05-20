@@ -1,5 +1,6 @@
 # The Prince Keeb
 A 54-key, low-profile, split keyboard.
+![Screenshot 2025-05-20 141544](https://github.com/user-attachments/assets/6ab2bc79-d695-462b-951e-b1eecd9d49cb)
 
 ## BOM
 | Name   | Purpose      | Source         | Price | Total |
