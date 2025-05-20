@@ -15,6 +15,7 @@ A 54-key, low-profile, split keyboard.
 | RP2040-Zero | To communicate information from the PCB to the computer | Aliexpress | $3.42 |
 | XVX Low-Profile Keycaps | To make activating keyswitches more comfortable | Amazon | $21.58 |
 |||||$131.61|
+
 I have an Amazon giftcard that would bring the price down to $121.61
 ## Screenshots
 
