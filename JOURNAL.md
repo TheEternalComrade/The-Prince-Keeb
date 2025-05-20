@@ -1,3 +1,4 @@
+Total time spent: 17.5 hours
 ## May 15, 2025
 Today, I mostly focused on planning. I want this keyboard to:
 - Be column staggered
@@ -89,7 +90,7 @@ Maybe it'll work tomorrow...
 Time Spent: 5 hours TT
 
 ## May 19, 2025
-I figureed out to offset my case outline! It turns out that if you zoomed in really really close, the lines weren't properly connected. 
+I figured out how to offset my case outline! It turns out that if you zoomed in really really close, the lines weren't properly connected. 
 I fixed this, and everthing went swimmingly. 
 
 Until....I looked at the Gateron KS-33 data sheet. To my surprise, the max distance that can be between the pcb and switch is 2.5 millimeters. 
@@ -102,9 +103,26 @@ With that decision made, I finished designing the right half of my case pretty q
 shouldn't take too long(I jinxed it, didn't I?).
 ![Screenshot 2025-05-19 175035](https://github.com/user-attachments/assets/79894c4c-3d23-4c07-82cf-71763e8efdda)
 
-I also got the boilerplate for my firmware done! I just need to figure what keys I want to put on each layer, and I'll be done@
+
+I also got the boilerplate for my firmware done! I just need to figure what keys I want to put on each layer, and I'll be done
 
 Bonus: When importing a 3d model of my PCB into Fusion360, I noticed that I had accidentally put a diode on the front-side instead of the back side. Oops. 
 Stay observant y'all!
 
 Time Spent: 4 hours
+
+## May 20, 2025
+I finished! Fortunately, I did not in fact jinx it. My cases are looking very handsome in the README, if I do say so myself.
+
+While examining the CAD for my left case, I noticed that I had accidentally flipped the RJ11 jack the wrong way. Fortunately, it 
+was an easy fix.
+![image](https://github.com/user-attachments/assets/4a369052-3ca2-4017-bd95-731dd7509ddb)
+
+
+Since there is going to be a spot where the pcb is visible, I added some silkscreen branding and a little bit of art. I'm quite
+pleased with how it looks.
+
+Finally, I made my firmware! It wasn't hard, but it did require switching between a lot of different tabs. I also
+had to learn how layers work in KMK, which was interesting.
+
+Time Spent: 3 hours
