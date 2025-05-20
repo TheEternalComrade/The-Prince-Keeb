@@ -65,6 +65,7 @@ This is what I came up with. I've decided to increase the amount of thumb keys t
  I was not tryna do allat, so after completing the left half of my keyboard, I simply made copy of it, renamed it, and flipped the copied pcb in kicad.
  I then proceeded to flip certain elements, reroute, and update the schematic a bit for a proper design.
  Here's what it looks like looks like:
+![Screenshot 2025-05-20 112907](https://github.com/user-attachments/assets/266d6bd4-5164-433a-8e87-5838756d948b)
 
  A bit of a tangent, but you may have noticed a blocky grey thing near the thumb keys on my pcb. This is what will allow the two 
  keyboard halves to communicate with each other! Normally, split keyboards use a TRRS jack to facilitate this communication. 
