@@ -2,8 +2,8 @@
 A 54-key, low-profile, split keyboard.
 
 ## BOM
-| Name   | Purpose      | Source         | Price | 
-|:-------|:-------------|:---------------|:------|
+| Name   | Purpose      | Source         | Price | Total |
+|:-------|:-------------|:---------------|:------|:------|
 | PCBs  | To connect parts electrically and hold them stable | JLCPCB | $65.10|
 | 1N4148 DO-35 Diodes  | To avoid confusion in keypresses | Aliexpress | $1.83|
 | Gateron Low-Profile Hotswap Socket | To allow switches to be easily removed and replaced | Aliexpress | $7.81 |
