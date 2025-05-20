@@ -86,3 +86,24 @@ a few segments of the outline are not included for some reason
 Maybe it'll work tomorrow...
 
 Time Spent: 5 hours TT
+
+## May 19, 2025
+I figureed out to offset my case outline! It turns out that if you zoomed in really really close, the lines weren't properly connected. 
+I fixed this, and everthing went swimmingly. 
+
+Until....I looked at the Gateron KS-33 data sheet. To my surprise, the max distance that can be between the pcb and switch is 2.5 millimeters. 
+
+Now, with regular, non-low-profile switches, the maximum distance that can be between the pcb and switch is 5mm. I plan on getting my my switch plate 3d-printed.
+It's reccomended that a 3d-printed switch plate be at least 3mm thick, to prevent bending. For a brief but not insignificant moment, I considered using
+normal profile switches. But, I decided I really didn't want a tall keyboard. I will thug it out.
+
+With that decision made, I finished designing the right half of my case pretty quickly. With a strong idea of what my casing will look like, the left half
+shouldn't take too long(I jinxed it, didn't I?).
+![Screenshot 2025-05-19 175035](https://github.com/user-attachments/assets/79894c4c-3d23-4c07-82cf-71763e8efdda)
+
+I also got the boilerplate for my firmware done! I just need to figure what keys I want to put on each layer, and I'll be done@
+
+Bonus: When importing a 3d model of my PCB into Fusion360, I noticed that I had accidentally put a diode on the front-side instead of the back side. Oops. 
+Stay observant y'all!
+
+Time Spent: 4 hours
