@@ -114,7 +114,7 @@ Time Spent: 4 hours
 ## May 20, 2025
 I finished! Fortunately, I did not in fact jinx it. My cases are looking very handsome in the README, if I do say so myself.
 
-While examining the CAD for my left case, I noticed that I had accidentally flipped the RJ11 jack the wrong way. Fortunately, it 
+While examining the CAD for my left case, I noticed that I had accidentally flipped the RJ11 jack the wrong way on my PCB. Fortunately, it 
 was an easy fix.
 ![image](https://github.com/user-attachments/assets/4a369052-3ca2-4017-bd95-731dd7509ddb)
 
