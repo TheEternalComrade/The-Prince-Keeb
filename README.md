@@ -20,6 +20,9 @@ I have an Amazon giftcard that would bring the price down to $121.61
 ## Screenshots
 
 ### Schematics
+![Screenshot 2025-05-20 135849](https://github.com/user-attachments/assets/6a352ba7-98a5-47d1-83e1-757499ba8347)
+![Screenshot 2025-05-20 135924](https://github.com/user-attachments/assets/ed5fc028-043d-4415-a225-3dcb55cbb8a9)
+
 
 ### PCB
 
