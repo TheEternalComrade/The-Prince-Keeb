@@ -27,5 +27,6 @@ I have an Amazon giftcard that would bring the price down to $121.61
 ### PCB
 
 ### CAD
-
+![Screenshot 2025-05-20 140236](https://github.com/user-attachments/assets/053940ae-5c62-40a9-9246-e9996d599073)
+![Screenshot 2025-05-20 140256](https://github.com/user-attachments/assets/fa952c7a-12bf-44fe-b764-0a8f6f569a47)
 
