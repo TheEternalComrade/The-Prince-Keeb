@@ -19,6 +19,10 @@ A 54-key, low-profile, split keyboard.
 
 I have an Amazon giftcard that would bring the price down to $121.61
 ## Screenshots
+![Screenshot 2025-05-20 164657](https://github.com/user-attachments/assets/60c40437-ef23-4c21-9d93-45428ae05f46)
+![Screenshot 2025-05-20 165305](https://github.com/user-attachments/assets/2ebcaef2-9b76-4fa2-9aed-970395a572da)
+![Screenshot 2025-05-20 165427](https://github.com/user-attachments/assets/cc19a697-5a34-45ff-878d-dd116e611307)
+![Screenshot 2025-05-20 165443](https://github.com/user-attachments/assets/f1eecb34-2fe1-4f00-a01d-c0add31be758)
 
 ### Schematics
 ![Screenshot 2025-05-20 135849](https://github.com/user-attachments/assets/6a352ba7-98a5-47d1-83e1-757499ba8347)
