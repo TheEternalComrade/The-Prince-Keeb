@@ -1,3 +1,10 @@
+---
+title: "The Prince Keeb"
+author: "@ayo"
+description: "A 54 key, low profile, split keyboard"
+created_at: "2024-03-15"
+---
+
 Total time spent: 17.5 hours
 ## May 15, 2025
 Today, I mostly focused on planning. I want this keyboard to:
