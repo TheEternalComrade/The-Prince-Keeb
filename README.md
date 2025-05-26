@@ -18,6 +18,8 @@ A 54-key, low-profile, split keyboard.
 |||||$131.61|
 
 I have an Amazon giftcard that would bring the price down to $121.61
+
+Note, JLCPCB was the cheapest I could find the pcb. FREEDOM TAXES RAHHHH
 ## Screenshots
 
 ### Schematics
