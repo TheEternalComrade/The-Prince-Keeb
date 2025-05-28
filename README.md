@@ -4,7 +4,8 @@ A 54-key, low-profile, split keyboard.
 My main goal when designing The Prince Keeb was for it to be as comfortable to type on as possible. 
 
 That meant it needed to be low profile, have a thin case, and make use of layers
-as opposed to more keys.
+as opposed to more keys. In addition, to connect the two halves together, I'm making use of  RJ11 jacks.
+Yes, the phone cables. Unorthodox as it may seem, this board will be hotpluggable-perfect for my clumsy self.
 
 This keyboard uses KMK for firmware. because of its unique ease of use.
 
