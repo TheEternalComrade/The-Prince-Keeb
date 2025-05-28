@@ -42,8 +42,9 @@ Note, JLCPCB was the cheapest I could find the pcbs. FREEDOM TAXES RAHHHH
 ### PCB
 ![Screenshot 2025-05-20 164657](https://github.com/user-attachments/assets/60c40437-ef23-4c21-9d93-45428ae05f46)
 ![Screenshot 2025-05-20 165305](https://github.com/user-attachments/assets/2ebcaef2-9b76-4fa2-9aed-970395a572da)
-![Screenshot 2025-05-20 165427](https://github.com/user-attachments/assets/cc19a697-5a34-45ff-878d-dd116e611307)
-![Screenshot 2025-05-20 165443](https://github.com/user-attachments/assets/f1eecb34-2fe1-4f00-a01d-c0add31be758)
+![Screenshot 2025-05-28 001448](https://github.com/user-attachments/assets/d172a404-2ff4-47da-9707-9003bb91b3c1)
+![Screenshot 2025-05-28 001350](https://github.com/user-attachments/assets/0cd85efc-85c3-4ba3-b1a9-3096439036ae)
+
 
 ### CAD
 ![Screenshot 2025-05-28 001324](https://github.com/user-attachments/assets/6b9bae5d-d9ab-413e-b725-2e10331a77f5)
