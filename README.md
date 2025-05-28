@@ -29,7 +29,7 @@ packs a truly <i>royal</i> experience.
 
 I have an Amazon giftcard that would bring the price down to $121.61
 
-Note, JLCPCB was the cheapest I could find the pcb. FREEDOM TAXES RAHHHH
+Note, JLCPCB was the cheapest I could find the pcbs. FREEDOM TAXES RAHHHH
 ## Screenshots
 
 ### Schematics
