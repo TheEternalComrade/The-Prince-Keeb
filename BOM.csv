@@ -1,6 +1,6 @@
 "Name","Purpose","Source","Price","Total"
 "PCBs","To connect parts electrically and hold them stable","JLCPCB","$65.10",""
-"[1N4148 DO-35 Diodes](https://www.aliexpress.com/item/3256802171647363.html?spm=a2g0n.shopcart.0.0.2f2738dawJ0aWD&mp=1&pdp_npi=5%40dis%21USD%21USD%201.94%21USD%201.94%21%21USD%201.94%21%21%21%402103247017483981832445134e9f68%2112000020286938067%21ct%21US%216369324848%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&_gl=1*1ekyzx4*_gcl_aw*R0NMLjE3NDczNDY5NjEuQ2owS0NRandvWmJCQmhEQ0FSSXNBT3FNRVpVd3I3SG1wMXFKckFrajRjX19EQjJxUm42RExTZWlQWWlJTjZxUXBNU3ViLUNkemI3R1Zha2FBbUdjRUFMd193Y0I.*_gcl_dc*R0NMLjE3NDczNDY5NjEuQ2owS0NRandvWmJCQmhEQ0FSSXNBT3FNRVpVd3I3SG1wMXFKckFrajRjX19EQjJxUm42RExTZWlQWWlJTjZxUXBNU3ViLUNkemI3R1Zha2FBbUdjRUFMd193Y0I.*_gcl_au*MTU4NjI1NTY1NC4xNzQ3MzQ2OTMz*_ga*MTA1NDY2NzA2MTcxMjI1LjE3NDczNDY4OTc0Mzg.*_ga_VED1YSGNC7*czE3NDgzOTgxODYkbzEzJGcwJHQxNzQ4Mzk4MTg3JGo1OSRsMCRoMA..) ","To avoid confusion in keypresses","Aliexpress","$1.83",""
+"1N4148 DO-35 Diodes ","To avoid confusion in keypresses","Aliexpress","$1.83",""
 "Gateron Low-Profile Hotswap Socket","To allow switches to be easily removed and replaced","Aliexpress","$7.81",""
 "Gateron KS-33 Brown Switches","To complete a circuit when pressed","Aliexpress","$23.72",""
 "M2 x L3 Heatset Inserts","To create threading for the screws","Aliexpress","$1.62",""
