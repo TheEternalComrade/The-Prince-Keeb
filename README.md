@@ -13,7 +13,6 @@ packs a truly <i>royal</i> experience.
 
 
 ![Screenshot 2025-05-28 001324](https://github.com/user-attachments/assets/3c7cc776-51b0-4dd9-a35d-3955cd436667)
-![Screenshot 2025-05-20 141544](https://github.com/user-attachments/assets/6ab2bc79-d695-462b-951e-b1eecd9d49cb)
 
 ## BOM
 | Name   | Purpose      | Source         | Price | Total |
