@@ -6,6 +6,8 @@ My main goal when designing The Prince Keeb was for it to be as comfortable to t
 That meant it needed to be low profile, have a thin case, and make use of layers
 as opposed to more keys.
 
+This keyboard uses KMK for firmware. because of its unique ease of use.
+
 Small as it may seem I think this keyboard
 packs a truly <i>royal</i> experience.
 
