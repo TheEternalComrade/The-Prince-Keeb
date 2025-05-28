@@ -1,5 +1,15 @@
 # The Prince Keeb
 A 54-key, low-profile, split keyboard.
+
+My main goal when designing The Prince Keeb were for it to be as comfortable to type on as possible. 
+
+That meant it needed to be low profile, have a thin case, and make use of layers
+as opposed more keys.
+
+Small as it may seem I think this keyboard
+packs a truly <i>royal</i> experience.
+
+
 ![Screenshot 2025-05-20 141544](https://github.com/user-attachments/assets/6ab2bc79-d695-462b-951e-b1eecd9d49cb)
 
 ## BOM
