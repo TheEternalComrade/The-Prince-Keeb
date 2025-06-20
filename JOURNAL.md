@@ -133,3 +133,28 @@ Finally, I made my firmware! It wasn't hard, but it did require switching betwee
 had to learn how layers work in KMK, which was interesting.
 
 Time Spent: 3 hours
+
+## June 19, 2025
+Today I attempted to assemble my keyboard. Emphasis on the word "attempted"
+everything was actually going swimmingly, with no major hiccups. Soldering was tedious, but not hard.
+
+When I was done, this is what it looked like
+![20250618_221203](https://github.com/user-attachments/assets/1b643373-6dd0-4b5c-a212-3dba48342d16)
+![20250618_221212](https://github.com/user-attachments/assets/8a847542-7842-467f-aa04-77acc5510c99)
+
+To check that everything was working, I went into the Thonny editor, and bridged each of the hotswap sockets. Save one that I had forgotten to finish soldering, everything was working.
+
+The problems started when I tried to connect the two halves. Long story short, it turns out I had made a mistake in the pcbs, accidentally connect gnd to power and power to gnd. 
+
+Luckily, it was a fixable mistake,  and I destroyed the existing traces in favor of some copper wire I had. I accidentally destroyed one too many traces though, so I had to solder an extra wire.
+![20250619_110615](https://github.com/user-attachments/assets/166a45f4-4e8a-4c12-a071-24bbfe464129)
+![20250619_110621](https://github.com/user-attachments/assets/6c8b73b7-ea37-4222-83a5-cc631ccd7dd4)
+![20250619_123252](https://github.com/user-attachments/assets/2b1cf0ec-ee7c-4ddb-be22-e2ba9f74d904)
+
+When I connected the two halves, I noticed that both microcontroller would only light up when plugged into the right side. Another long story short, the microcontroller went on strike and refused to let me upload firmware on it.
+
+I also got the 3d printed case in the mail today( thanks Logan!). The corner of the right half was a little bit warped, so I had to do some sanding. But, when I put the switches in the right half, the scab(traitor) I realized that the keys furthest from the screws would only register key presses if I pressed down really hard. For some reason, the hotswap sockets were not holding them tight enough.
+
+So, that was a complete failure! But, hope is not lost(yet). I've ordered some more diodes and a (hopefully) functioning microcontroller. I plan on retrying on my extra pcbs, but without the hotswap sockets. Let's hope it works.
+
+Time spent: 6 hours
