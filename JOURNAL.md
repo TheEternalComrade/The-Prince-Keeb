@@ -158,3 +158,21 @@ I also got the 3d printed case in the mail today( thanks Logan!). The corner of 
 So, that was a complete failure! But, hope is not lost(yet). I've ordered some more diodes and a (hopefully) functioning microcontroller. I plan on retrying on my extra pcbs, but without the hotswap sockets. Let's hope it works.
 
 Time spent: 6 hours
+
+## June 25, 2025
+Good news! The right half works perfectly with QMK! The bad news?
+
+The left hand microcontroller is busted.
+
+It all started when I had finished soldering the switches. I went to test everything. Some switches didn't register, so I went back to make sure they were soldered properly. This seemed to fix the problem of all such switches except one. The "a" key. That specific failure felt targeted(my initials are both "a").
+
+After a bunch of testing, I determined that the problem was not a mistake in the pcb, diode mis-orientation, or soldering. Even if I shorted the pins directly on the mcu, it still wouldn't work. After some asking around, I've discovered that the controller was probably busted from an accidental static shock. -sigh-
+
+I've decided that it is not a good idea to expose my left hand microntroller, so I've printed a new plate for it. Since I had soldered the switches to the original plate, I had the desolder them. I used a bunch of flux, and to my great surprise, desoldering was really easy! I used braid, which is not known for efficiency, but the fact that the switch holes were so big and filled with so much solder was really helpful. I had everything done in like, 15 minutes.
+![20250625_222317](https://github.com/user-attachments/assets/825e8654-af28-4cad-9cab-bc6e94a0beb6)
+
+
+I'm going to handwire the left half, and hide the mcu under the case. Since the usb port will be inaccessible, I'll make the right half the master half.
+
+![IMG_20250625_212142](https://github.com/user-attachments/assets/c703b94e-413e-4439-8883-46dad2d9d7f3)
+<i>The new plate. It has holes for the rj11 jack to go into.</i>
