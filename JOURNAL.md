@@ -169,7 +169,8 @@ It all started when I had finished soldering the switches. I went to test everyt
 After a bunch of testing, I determined that the problem was not a mistake in the pcb, diode mis-orientation, or soldering. Even if I shorted the pins directly on the mcu, it still wouldn't work. After some asking around, I've discovered that the controller was probably busted from an accidental static shock. -sigh-
 
 I've decided that it is not a good idea to expose my left hand microntroller, so I've printed a new plate for it. Since I had soldered the switches to the original plate, I had the desolder them. I used a bunch of flux, and to my great surprise, desoldering was really easy! I used braid, which is not known for efficiency, but the fact that the switch holes were so big and filled with so much solder was really helpful. I had everything done in like, 15 minutes.
-![20250625_222317](https://github.com/user-attachments/assets/825e8654-af28-4cad-9cab-bc6e94a0beb6)
+![20250625_222452](https://github.com/user-attachments/assets/882c82fa-6d3a-4eca-8af6-2fa938b378d1)
+
 
 
 I'm going to handwire the left half, and hide the mcu under the case. Since the usb port will be inaccessible, I'll make the right half the master half.
