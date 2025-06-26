@@ -1,5 +1,5 @@
 ---
-title: "The Prince Keeb"
+title: "The Prince54"
 author: "@ayo"
 description: "A 54 key, low profile, split keyboard"
 created_at: "2024-03-15"
