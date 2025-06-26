@@ -1,4 +1,4 @@
-# The Prince Keeb
+# The Prince54
 A 54-key, low-profile, split keyboard.
 
 My main goal when designing The Prince Keeb was for it to be as comfortable to type on as possible. 
