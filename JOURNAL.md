@@ -171,9 +171,12 @@ After a bunch of testing, I determined that the problem was not a mistake in the
 I've decided that it is not a good idea to expose my left hand microntroller, so I've printed a new plate for it. Since I had soldered the switches to the original plate, I had the desolder them. I used a bunch of flux, and to my great surprise, desoldering was really easy! I used braid, which is not known for efficiency, but the fact that the switch holes were so big and filled with so much solder was really helpful. I had everything done in like, 15 minutes.
 ![20250625_222452](https://github.com/user-attachments/assets/882c82fa-6d3a-4eca-8af6-2fa938b378d1)
 
-
-
 I'm going to handwire the left half, and hide the mcu under the case. Since the usb port will be inaccessible, I'll make the right half the master half.
 
 ![IMG_20250625_212142](https://github.com/user-attachments/assets/c703b94e-413e-4439-8883-46dad2d9d7f3)
 <i>The new plate. It has holes for the rj11 jack to go into.</i>
+
+## June 27, 2025
+Ngl, building this keyboard has been quite the sucky experience. Five microcontrollers and four of them have all just... died. FOUR! To be fair, one was my fault, damaged from attempting to remove it, but three others is just too much. On the one hand(quite literally), the right hand of my keyboard works perfectly! On the other, the left half refuses to work. I swear, that side must be bad luck or something because all 4 microcontrollers have been broken in an attempt to get that side working. At this point, I might just have to turn the Prince54 into the Prince54. 
+
+I've ordered one more microcontroller(with my money, not Hack Club's). Five's the charm? 
