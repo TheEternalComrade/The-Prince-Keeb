@@ -8,6 +8,7 @@ as opposed to more keys. In addition, to connect the two halves together, I'm ma
 Yes, the phone cables. Unorthodox as it may seem, this board will be hotpluggable-perfect for my clumsy self.
 
 This keyboard uses KMK for firmware. because of its unique ease of use.
+EDIT: This keyboard now used QMK, as I could not get KMK to work properly.
 
 Small as it may seem I think this keyboard
 packs a truly <i>royal</i> experience.
