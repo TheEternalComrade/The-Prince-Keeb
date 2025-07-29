@@ -180,3 +180,6 @@ I'm going to handwire the left half, and hide the mcu under the case. Since the 
 Ngl, building this keyboard has been quite the sucky experience. Five microcontrollers and four of them have all just... died. FOUR! To be fair, one was my fault, damaged from attempting to remove it, but three others is just too much. On the one hand(quite literally), the right hand of my keyboard works perfectly! On the other, the left half refuses to work. I swear, that side must be bad luck or something because all 4 microcontrollers have been broken in an attempt to get that side working. At this point, I might just have to turn the Prince54 into the Prince54. 
 
 I've ordered one more microcontroller(with my money, not Hack Club's). Five's the charm? 
+
+## July 6, 2025
+As of Jyl 6, 2025, this keyboard is fully functional! Everything works.
