@@ -184,4 +184,4 @@ I've ordered one more microcontroller(with my money, not Hack Club's). Five's th
 ## July 6, 2025
 As of Jyl 6, 2025, this keyboard is fully functional! Everything works.
 ![20250728_213812](https://github.com/user-attachments/assets/5765bf69-3c94-4d2c-9c50-13c7f5f5f109)
-
+Time Spent: 8 hours
