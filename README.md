@@ -53,3 +53,5 @@ Note, JLCPCB was the cheapest I could find the pcbs. FREEDOM TAXES RAHHHH
 ![Screenshot 2025-05-28 001324](https://github.com/user-attachments/assets/6b9bae5d-d9ab-413e-b725-2e10331a77f5)
 ![Screenshot 2025-05-28 001227](https://github.com/user-attachments/assets/78a3d6f0-0d07-4cde-b57d-9bbe31b277a3)
 
+total build time:
+8 hours
