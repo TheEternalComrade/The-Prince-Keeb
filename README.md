@@ -55,3 +55,6 @@ Note, JLCPCB was the cheapest I could find the pcbs. FREEDOM TAXES RAHHHH
 
 total build time:
 8 hours
+https://youtube.com/shorts/83SZH12o2-k?si=EjW0-hZWY71Q0C4e
+![Uploading 20250728_213812.jpg…]()
+
